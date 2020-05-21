@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="style" type="id" />
+    <item name="logoView" type="id" />
+    <item name="textview_title" type="id" />
+    <item name="textview_poi" type="id" />
+    <item name="textview_style" type="id" />
+    <item name="textview_description" type="id" />
+    <item name="single_location_cardview" type="id" />
+    <item name="text_container" type="id" />
+</resources>

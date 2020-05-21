@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicMapbox</string>
+    <string name="access_token">BASICBOX_API_KEY</string>
+    <string name="ably_api_key">ABLY_API_KEY</string>
+</resources>
